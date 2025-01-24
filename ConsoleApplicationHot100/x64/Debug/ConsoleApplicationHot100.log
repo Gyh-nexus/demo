@@ -1,0 +1,3 @@
+﻿  ConsoleApplicationHot100.cpp
+D:\Code\VisualStudio\myprojects\Fushi\ConsoleApplicationHot100\ConsoleApplicationHot100.cpp(111): warning C4715: “solution3”: 不是所有的控件路径都返回值
+  ConsoleApplicationHot100.vcxproj -> D:\Code\VisualStudio\myprojects\Fushi\ConsoleApplicationHot100\x64\Debug\ConsoleApplicationHot100.exe
